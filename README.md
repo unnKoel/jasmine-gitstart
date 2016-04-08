@@ -4,3 +4,15 @@
 
 
 blog地址:[前端测试-jasmine](http://www.jianshu.com/p/cbfbfe65d777)
+
+###项目目录结构
+
+```
+lib      -->jasmine源码
+spec     -->jasmine语法书写的测试用例
+src      -->被测试源码
+gramma-customMatcher.html   -->jasmine自定义Matcher例子
+gramma-describeNest.html    -->jasmine嵌套describe例子
+gramma-setup.html           -->beforeEach,afterEach等语法使用例子
+SepcRunner.html             -->jasmine官方的例子
+```
